@@ -138,8 +138,8 @@
         </select>
 
         <p>Language spoken</p>
-    <input type="checkbox" id="indo" name="language[]" value="Bahasa Indonesia">
-    <label for="indo">Bahasa Indonesia</label><br>
+    <input type="checkbox" id="indo" name="language[]" value="Indonesia">
+    <label for="indo">Indonesia</label><br>
     <input type="checkbox" id="inggris" name="language[]" value="English">
     <label for="inggris">English</label><br>
     <input type="checkbox" id="lainnya" name="language[]" value="Other">
